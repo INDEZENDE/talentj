@@ -6,16 +6,25 @@
 .imgLanding {
     width: 100vw;
     align-content: center;
-
 }
-
+.imgLogo {
+    width: 80px;
+    align-content: center;
+}
+button a {
+    text-decoration: none;
+    color: #ffffff;
+}
 .navbar {
     background: transparent !important;
     color: #ffffff !important;
+    margin-left: 20vw;
+    
 }
 
 #navbar a {
     color: #ffffff !important;
+    font-size: 10em;
 }
 
 /* Footer */
